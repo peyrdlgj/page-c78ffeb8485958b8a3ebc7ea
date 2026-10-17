@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "7005e670fea1930dc83ebc5a",
+  "owner": "peyrdlgj",
+  "repo": "page-c78ffeb8485958b8a3ebc7ea",
+  "title": "快云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "c78ffeb8485958b8a3ebc7ea",
+      "a": "快云",
+      "b": "",
+      "entity": "快云",
+      "brand": "快云",
+      "separator": "",
+      "path": "index.html",
+      "hash": "8a88c3be51d3130f0c01486b14b0d557eeef867fcc149b75f77fc6649272aaf7",
+      "content": {
+        "keyword1": "快云",
+        "keyword2": "",
+        "primary_entity": "快云",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "快云为您提供高效稳定的网络传输与数据管理服务。查看我们的服务套餐、接入指南以及常见问题。",
+          "AI_DESCRIPTION": "快云为您提供高效稳定的网络传输与数据管理服务。查看我们的服务套餐、接入指南以及常见问题。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n:root {--bg-color: #ffffff;--text-color: #111111;--accent-color: #ff5500;--gray-light: #f7f7f7;--gray-border: #cccccc;--font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif}\n* {box-sizing: border-box;margin: 0;padding: 0}\nbody {background-color: var(--bg-color);color: var(--text-color);font-family: var(--font-family);line-height: 1.6;padding: 2rem 1rem;max-width: 1200px;margin: 0 auto}\nheader {margin-bottom: 4rem;border-bottom: 2px solid var(--text-color);padding-bottom: 1.5rem;display: flex;justify-content: space-between;align-items: baseline;flex-wrap: wrap;gap: 1rem}\n.brand-links {display: flex;gap: 1.5rem;font-size: 0.95rem;font-weight: 600}\n.brand-links a {color: var(--text-color);text-decoration: none}\n.brand-links a:hover {color: var(--accent-color);text-decoration: underline}\nmain {display: flex;flex-direction: column;gap: 4rem}\n.hero {padding: 4rem 0;border-bottom: 1px solid var(--gray-border)}\n.hero h1 {font-size: clamp(4rem, 15vw, 12rem);line-height: 0.9;font-weight: 900;text-transform: uppercase;letter-spacing: -0.05em;margin-bottom: 2rem;color: var(--text-color)}\n.hero h1 span {color: var(--accent-color)}\n.hero-intro {max-width: 600px;font-size: 1.25rem;font-weight: 500}\n.section-title {font-size: 2rem;font-weight: 800;margin-bottom: 1.5rem;display: flex;align-items: center;gap: 0.5rem}\n.section-title::before {content: \"\";display: inline-block;width: 12px;height: 12px;background-color: var(--accent-color)}\n.plans-container {overflow-x: auto}\ntable.plans-table {width: 100%;border-collapse: collapse;text-align: left;font-size: 0.95rem}\ntable.plans-table th, table.plans-table td {padding: 1rem;border: 1px dashed var(--gray-border)}\ntable.plans-table th {background-color: var(--gray-light);font-weight: 700}\ntable.plans-table td.highlight {border: 2px solid var(--accent-color);background-color: #fff9f5}\n.price-tag {font-size: 1.5rem;font-weight: 700;color: var(--accent-color);margin-top: 0.5rem}\n.features-list {list-style: none;margin-top: 1rem}\n.features-list li {margin-bottom: 0.5rem;position: relative;padding-left: 1.2rem}\n.features-list li::before {content: \"-\";position: absolute;left: 0;color: var(--accent-color);font-weight: bold}\n.usage-grid {display: grid;grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));gap: 1.5rem}\n.ticket-card {border: 2px dashed var(--gray-border);padding: 2rem;background-color: var(--bg-color);position: relative}\n.ticket-card h3 {font-size: 1.25rem;margin-bottom: 1rem;font-weight: 700}\n.ticket-card p {font-size: 0.95rem;color: #333}\n.faq-grid {display: grid;grid-template-columns: 1fr 1fr;gap: 2rem}\n@media (max-width: 768px) {\n  .faq-grid {grid-template-columns: 1fr}\n}\n.faq-item {border: 2px dashed var(--gray-border);padding: 1.5rem}\n.faq-item h3 {font-size: 1.1rem;margin-bottom: 0.75rem;font-weight: 700}\n.faq-item p {font-size: 0.95rem;color: #444}\nfooter {margin-top: 4rem;padding-top: 2rem;border-top: 1px solid var(--gray-border);font-size: 0.85rem;color: #666;display: flex;justify-content: space-between;align-items: center;flex-wrap: wrap;gap: 1rem}\n</style><header>\n  <div>快云 / KAIYUN</div>\n  <nav class=\"brand-links\">\n    <a href=\"#plans\">服务套餐</a>\n    <a href=\"#guide\">使用说明</a>\n    <a href=\"#faq\">常见问题</a>\n  </nav>\n</header>\n<main>\n  <section class=\"hero\">\n    <h1>快云<span>.</span></h1>\n    <div class=\"hero-intro\">\n      专注提供高效、稳定的网络传输与数据管理服务。我们通过精简的架构与可靠的节点支持，满足各类基础与专业应用场景需求。\n    </div>\n  </section>\n\n  <section id=\"plans\">\n    <h2 class=\"section-title\">服务套餐对比</h2>\n    <div class=\"plans-container\">\n      <table class=\"plans-table\">\n        <thead>\n          <tr>\n            <th>服务项目</th>\n            <th>基础版</th>\n            <th class=\"highlight\">旗舰版（推荐）</th>\n            <th>团队版</th>\n          </tr>\n        </thead>\n        <tbody>\n          <tr>\n            <td><strong>月度价格</strong></td>\n            <td><div class=\"price-tag\">¥15/月</div><div>按年付仅需 ¥150/年</div></td>\n            <td class=\"highlight\"><div class=\"price-tag\">¥35/月</div><div>按年付仅需 ¥350/年</div></td>\n            <td><div class=\"price-tag\">¥85/月</div><div>按年付仅需 ¥850/年</div></td>\n          </tr>\n          <tr>\n            <td><strong>流量配额</strong></td>\n            <td>每月 100GB 极速流量</td>\n            <td class=\"highlight\">每月 300GB 极速流量</td>\n            <td>每月 1000GB 极速流量</td>\n          </tr>\n          <tr>\n            <td><strong>设备支持</strong></td>\n            <td>支持 3 台设备同时在线</td>\n            <td class=\"highlight\">支持 5 台设备同时在线</td>\n            <td>支持 20 台设备同时在线</td>\n          </tr>\n          <tr>\n            <td><strong>核心权益</strong></td>\n            <td>\n              <ul class=\"features-list\">\n                <li>解锁基础流媒体</li>\n                <li>普通线路节点池</li>\n              </ul>\n            </td>\n            <td class=\"highlight\">\n              <ul class=\"features-list\">\n                <li>全节点原生流媒体解锁</li>\n                <li>IPLC 专线游戏加速优化</li>\n                <li>7x24 优先工单支持</li>\n              </ul>\n            </td>\n            <td>\n              <ul class=\"features-list\">\n                <li>VIP 专属高带宽节点</li>\n                <li>支持企业定制路由</li>\n                <li>专属客户经理服务</li>\n              </ul>\n            </td>\n          </tr>\n        </tbody>\n      </table>\n    </div>\n  </section>\n\n  <section id=\"guide\">\n    <h2 class=\"section-title\">使用说明与接入步骤</h2>\n    <div class=\"usage-grid\">\n      <div class=\"ticket-card\">\n        <h3>01 / 选择方案</h3>\n        <p>根据您的实际传输需求与设备数量，挑选合适的套餐版本。支持月付与年付灵活选择。</p>\n      </div>\n      <div class=\"ticket-card\">\n        <h3>02 / 获取配置</h3>\n        <p>完成账户开通后，在用户面板获取专属的接入凭证或一键订阅链接，支持主流客户端。</p>\n      </div>\n      <div class=\"ticket-card\">\n        <h3>03 / 接入使用</h3>\n        <p>将订阅地址导入兼容的客户端软件中，更新节点列表即可开始使用快云网络传输服务。</p>\n      </div>\n    </div>\n  </section>\n\n  <section id=\"faq\">\n    <h2 class=\"section-title\">常见问题解答</h2>\n    <div class=\"faq-grid\">\n      <div class=\"faq-item\">\n        <h3>如何购买并开通快云服务？</h3>\n        <p>您可以在本页面查看套餐详情，注册并登录快云用户后台完成支付后，系统将自动开通对应服务权限。</p>\n      </div>\n      <div class=\"faq-item\">\n        <h3>支持哪些客户端设备？</h3>\n        <p>快云兼容主流操作系统及各类常见网络客户端，您可以在用户后台的下载专区获取详细的配置教程与客户端指引。</p>\n      </div>\n      <div class=\"faq-item\">\n        <h3>流量是如何计算和重置的？</h3>\n        <p>所有套餐流量均按照自然月或账单周期进行计算。在每个计费周期的开始日，系统会自动重置当月可用流量额度。</p>\n      </div>\n      <div class=\"faq-item\">\n        <h3>遇到连接不稳定应该如何处理？</h3>\n        <p>请首先检查您的本地网络状态与客户端订阅是否为最新。如仍未解决，可联系我们的 7x24 客服支持获取线路优化建议。</p>\n      </div>\n    </div>\n  </section>\n</main>\n<footer>\n  <div>© 快云 版权所有</div>\n  <div>保持连接，高效传输</div>\n</footer>",
+          "hash": "09207691ea162b943b12bfc3c227b0e5cf5b71870e93706791c2944e320a3f5a",
+          "seo": {
+            "title": "快云 - 高效稳定的网络传输与数据管理服务",
+            "keywords": "快云,网络加速,数据传输,流量包,专线服务",
+            "description": "快云为您提供高效稳定的网络传输与数据管理服务。查看我们的服务套餐、接入指南以及常见问题。"
+          },
+          "provider": "grok",
+          "model": "gemini-3.7-flash",
+          "design": {
+            "no": "7145",
+            "hero": "2 超大字号品牌名铺满首屏的海报式",
+            "palette": "6 纯白配高饱和橙",
+            "nav": "6 无导航，用区块内的跳转链接",
+            "card": "6 虚线框票据风格",
+            "plans_view": "1 横向对比表格",
+            "faq_view": "1 双栏问答",
+            "tone": "6 清单式务实口吻",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "tkgf2.cn",
+    "host": "p-a4eb7d5258.tkgf2.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "11e97c663f92bab1d3efda335b5d8ddb5b02485c4c105acfd568fea52b325093",
+    "sitemap.xml": "e7178bc0ce81b232562d84ccaee003a36facd41fc645d6ddf5362854dda1496c",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "e99f324586751216f411c2c3b35a8fd519606fbcc44c0409b901cbf26331afd1",
+    "robots.txt": "d6316e6b9166d4f19139de2537876ba023c5059e47f27286c5b480fa36a13fe4",
+    "0ad737fa3adb144be61b4c4531ea22bf.txt": "909310afeebb23e0d95fe3159b9fa5bd2fc8c16c556e572244f6bb10f6423d55"
+  },
+  "revision": "37a7011e1c5ff875b429359830fb2c79f615218103ed23409ba7dd7a9a4695d4"
+}
